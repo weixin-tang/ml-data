@@ -2,24 +2,22 @@
 
 
 
-### https://weixin-tang.github.io/ml-data/SPY.csv/EX01-030KPOT40.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/breast-cancer-wisconsin.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/sample_submission.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/LoanDefaultData.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/clickdata.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/tennis-time.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/PurchaseData.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/diabetes.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/tennis.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/SPY.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/genre.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/tweets.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/Weather.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/winequality-red.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/advertising.csv
-### https://weixin-tang.github.io/ml-data/SPY.csv/salary.csv
-
-
+### https://weixin-tang.github.io/ml-data/EX01-030KPOT40.csv
+### https://weixin-tang.github.io/ml-data/breast-cancer-wisconsin.csv
+### https://weixin-tang.github.io/ml-data/sample_submission.csv
+### https://weixin-tang.github.io/ml-data/LoanDefaultData.csv
+### https://weixin-tang.github.io/ml-data/clickdata.csv
+### https://weixin-tang.github.io/ml-data/tennis-time.csv
+### https://weixin-tang.github.io/ml-data/PurchaseData.csv
+### https://weixin-tang.github.io/ml-data/diabetes.csv
+### https://weixin-tang.github.io/ml-data/tennis.csv
+### https://weixin-tang.github.io/ml-data/SPY.csv
+### https://weixin-tang.github.io/ml-data/genre.csv
+### https://weixin-tang.github.io/ml-data/tweets.csv
+### https://weixin-tang.github.io/ml-data/Weather.csv
+### https://weixin-tang.github.io/ml-data/winequality-red.csv
+### https://weixin-tang.github.io/ml-data/advertising.csv
+### https://weixin-tang.github.io/ml-data/salary.csv
 
 
 
